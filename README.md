@@ -1,1 +1,1 @@
-# iridium-example-extension
+<extension name="Java Help" href="help.jnlp"/> 
