@@ -1,4 +1,4 @@
-package com.matthewcasperson.iridium.extensions.example;
+package au.com.agic.apptestingext.steps;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
