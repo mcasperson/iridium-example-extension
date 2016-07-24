@@ -9,7 +9,6 @@
     <resources>
         <!-- Application Resources -->
         <j2se version="1.8+" href="http://java.sun.com/products/autodl/j2se"/>
-        <property name="jnlp.packEnabled" value="true"/>
         <jar href="iridium-example-extension.jar" main="true" />
     </resources>
     <component-desc/>
