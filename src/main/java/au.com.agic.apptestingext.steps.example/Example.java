@@ -18,7 +18,7 @@ public class Example {
 	 *
 	 * @param message The message to be written to the log
 	 */
-	@When("I write \".*?\" as a log message")
+	@When("I write \"(.*?)\" as a log message")
 	public void writeExampleLogMessage(final String message) {
 		LOGGER.info(message);
 	}
